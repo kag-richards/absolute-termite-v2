@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kag-richards.github.io/absolute-termite-v2/sitemap.xml
